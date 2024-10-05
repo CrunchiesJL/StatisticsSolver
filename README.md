@@ -1,2 +1,3 @@
 # StatisticsSolver
-This is just a light program that helps with the first half of statistics courses, probably
+This is a super light program that helps with the first half of statistics courses, probably.
+I wrote this back in 2023 when I took Statistics and Probability with Professor Michael Maxwell. I got a little lazy inputting all this stuff into R and having to abide by its syntax so I just spent the time making this program to do the homework for me. It's a tiny bit messy but the code should be decently legible, I haven't encountered any inconsistencies with the code since it was a direct translation from the algorithms taught in class, but if anything like that happens you could let me know, or not. Just run the c++ file in whichever terminal you prefer.
